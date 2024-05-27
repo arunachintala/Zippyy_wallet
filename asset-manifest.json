@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Zippyy_wallet/static/css/main.c80f4834.css",
+    "main.js": "/Zippyy_wallet/static/js/main.407635ea.js",
+    "static/js/453.6159162a.chunk.js": "/Zippyy_wallet/static/js/453.6159162a.chunk.js",
+    "static/media/set.svg": "/Zippyy_wallet/static/media/set.51b1f305771e9d6fd8edefcf5562aa37.svg",
+    "static/media/settings.svg": "/Zippyy_wallet/static/media/settings.6e0bb8d90b1581f6665363fdc4c3cfb8.svg",
+    "static/media/bell.svg": "/Zippyy_wallet/static/media/bell.5380d4edac4e63cd623ff17748ea9e37.svg",
+    "static/media/info.svg": "/Zippyy_wallet/static/media/info.8089683c7a2272354ec512eefeb9bb44.svg",
+    "static/media/logo2.svg": "/Zippyy_wallet/static/media/logo2.907c4e19964f34d928c006d2bfff3282.svg",
+    "static/media/logo.svg": "/Zippyy_wallet/static/media/logo.53a98d6b1cf7a536ccb4cda4826eb56e.svg",
+    "static/media/search.svg": "/Zippyy_wallet/static/media/search.89b7262868b2bb04c9c3d6ad757a4ddc.svg",
+    "static/media/orange.svg": "/Zippyy_wallet/static/media/orange.06e64e8feacdf9dd0b28fa4d3c676423.svg",
+    "static/media/help.svg": "/Zippyy_wallet/static/media/help.d852ae1f3582c789a7b2831ed3f13d72.svg",
+    "index.html": "/Zippyy_wallet/index.html",
+    "static/media/icon.svg": "/Zippyy_wallet/static/media/icon.bec4515b25159e487cbf6acc83c8821a.svg",
+    "static/media/check.svg": "/Zippyy_wallet/static/media/check.744e1ea95b2877f8eedfedcf1bca210a.svg",
+    "static/media/game.svg": "/Zippyy_wallet/static/media/game.4651ff427d66ca299479cbe2ea72726a.svg",
+    "static/media/home.svg": "/Zippyy_wallet/static/media/home.456d24210b509ac1663cccf0e5939b6b.svg",
+    "static/media/divider.svg": "/Zippyy_wallet/static/media/divider.10e62f8f0656511fdb828a3c089f2500.svg",
+    "main.c80f4834.css.map": "/Zippyy_wallet/static/css/main.c80f4834.css.map",
+    "main.407635ea.js.map": "/Zippyy_wallet/static/js/main.407635ea.js.map",
+    "453.6159162a.chunk.js.map": "/Zippyy_wallet/static/js/453.6159162a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c80f4834.css",
+    "static/js/main.407635ea.js"
+  ]
+}
