@@ -1,0 +1,163 @@
+* {
+    font-family: 'Poppins';
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.amount {
+    color: #4C7A34;
+    position: absolute;
+    left: 364px;
+    top: 186px;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+}
+
+.available-balance {
+    color: #5F5A6B;
+    position: absolute;
+    top: 229px;
+    left: 322px;
+    width: 164px;
+    height: 25px;
+}
+
+.add-money {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    position: absolute;
+    top: 278px;
+    left: 118px;
+}
+
+.enter-amount {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    position: absolute;
+    left: 118px;
+    top: 317px;
+    gap: 4px;
+    color: #5F5A6B;
+}
+
+.input-amount {
+    background-color: white;
+    color: #D9D9D9;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    width: 229.01px;
+    height: 40px;
+    border-radius: 6px;
+    border: 1px solid #D2D1D6;
+    padding: 6px 12px;
+    position: absolute;
+    left: 118px;
+    top: 342px;
+}
+
+.box {
+    border: 1px solid #D9D9D9;
+    position: absolute;
+    left: 118px;
+    top: 406px;
+    border-radius: 6px;
+    width: 572px;
+    height: 139px;
+}
+
+.transfer-mode {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins';
+    color: #121114;
+    position: absolute;
+    left: 136px;
+    top: 424px;
+}
+
+.radio-label {
+    position: absolute;
+}
+
+.radio-label.option1 {
+    top: 472px;
+    left: 136px;
+}
+
+.radio-label.option2 {
+    top: 507px;
+    left: 136px;
+}
+
+.horizontal-line {
+    border: 1px solid #D9D9D9;
+    position: absolute;
+    left: 136px;
+    top: 457px;
+    width: 536px;
+}
+
+.large-box {
+    width: 572px;
+    height: 278px;
+    position: absolute;
+    top: 569px;
+    left: 118px;
+    border: 1px solid #D9D9D9;
+    border-radius: 6px;
+}
+
+.powered-by {
+    position: absolute;
+    left: 122px;
+    top: 861px;
+    font-weight: 400;
+    line-height: 18px;
+    font-size: 12px;
+    font-family: 'Poppins';
+}
+
+.pay-button {
+    color: #FFFFFF;
+    width: 240px;
+    height: 40px;
+    border-radius: 6px;
+    padding: 10px;
+    gap: 10px;
+    font-family: 'Poppins';
+    background: #D54029;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    border: 1px solid white;
+    position: absolute;
+    top: 893px;
+    left: 118px;
+}
+
+.vertical-line {
+    height: 633px;
+    position: absolute;
+    top: 259px;
+    left: 750px;
+    border: 1px solid #D9D9D9;
+}
+
+.dollar-sign {
+    position: absolute;
+    top: 352px;
+    left: 355px;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    color: Cool Grey 4;
+}
